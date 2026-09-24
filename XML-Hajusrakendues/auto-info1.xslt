@@ -74,5 +74,34 @@
 			 </li>
 		 </xsl:for-each>
 	 </ul>
+
+	 <h2>Registrimärgi viimane number on 2</h2>
+	 <ul>
+		 <xsl:if test="count(/auto/autoInfo[substring(registrinumber, 3, 1) = '2'])">
+			 Ülevaatluse kuu on Juuli
+		 </xsl:if>
+	 </ul>
+
+	 <h2>Perekonna nimes on x</h2>
+	 <ul>
+		 <xsl:for-each select="/auto/autoInfo/omanik">
+			 <xsl:if test="contains(perenimi, 'x')">
+			 <li>
+				 Sisaldab x, sa oled debil.
+			 </li>
+			 </xsl:if>
+		 </xsl:for-each>
+	 </ul>
+
+	 <h2>Perekonna nimes ei ole x</h2>
+	 <ul>
+		 <xsl:for-each select="/auto/autoInfo/omanik">
+			 <xsl:if test="not (contains(perenimi, 'x'))">
+				 <li>
+					 Ei sisalda x, oled tubli!
+				 </li>
+			 </xsl:if>
+		 </xsl:for-each>
+	 </ul>
  </xsl:template>
 </xsl:stylesheet>
