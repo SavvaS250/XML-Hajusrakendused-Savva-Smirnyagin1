@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<inimesed>
+    <inimene>
+        <eesnimi>Juku</eesnimi>
+        <perenimi>Juurikas</perenimi>
+        <synd>1963</synd>
+		<sugu>Mees</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Juhan</eesnimi>
+        <perenimi>Loh</perenimi>
+        <synd>1961</synd>
+		<sugu>Mees</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Kalle</eesnimi>
+        <perenimi>Kaalikas</perenimi>
+        <synd>1975</synd>
+		<sugu>Helikopter</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Mari</eesnimi>
+        <perenimi>Maasikas</perenimi>
+        <synd>1981</synd>
+		<sugu>Naine</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Oskar</eesnimi>
+        <perenimi>Ohakas</perenimi>
+        <synd>1971</synd>
+		<sugu>Mees</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Maksim</eesnimi>
+        <perenimi>Maksimov</perenimi>
+        <synd>1999</synd>
+		<sugu>Ei ole veel kindel</sugu>
+    </inimene>
+</inimesed>
