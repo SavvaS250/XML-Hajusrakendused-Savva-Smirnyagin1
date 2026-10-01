@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Xml.Xsl;
 
 namespace XML_Hajusrakendues
 {
@@ -11,7 +12,14 @@ namespace XML_Hajusrakendues
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            XsltArgumentList p = new XsltArgumentList();
+            p.AddParam("otsing", "", kast1.Text);
+            int abi;
+            if (int.TryParse(kast2.Text, out abi))
+            {
+                p.AddParam("pikkus", "", kast2.Text);
+            }
+            xml3.TransformArgumentList = p;
         }
     }
 }
