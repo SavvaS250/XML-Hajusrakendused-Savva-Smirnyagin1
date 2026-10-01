@@ -14,7 +14,7 @@
 	 <ul>
 		 <xsl:for-each select="inimesed/inimene/eesnimi">
 			 <li>
-				 <xsl:value-of select="." />
+				 <xsl:value-of select="." />;
 			 </li>
 		 </xsl:for-each>
 	 </ul>

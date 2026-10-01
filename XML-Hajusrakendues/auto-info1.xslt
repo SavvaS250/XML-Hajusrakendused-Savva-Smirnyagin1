@@ -75,9 +75,9 @@
 		 </xsl:for-each>
 	 </ul>
 
-	 <h2>Registrimärgi viimane number on 2</h2>
+	 <h2>Registrimärgi viimane number on 7</h2>
 	 <ul>
-		 <xsl:if test="count(/auto/autoInfo[substring(registrinumber, 3, 1) = '2'])">
+		 <xsl:if test="count(/auto/autoInfo[substring(registrinumber, 3, 1) = '7'])">
 			 Ülevaatluse kuu on Juuli
 		 </xsl:if>
 	 </ul>

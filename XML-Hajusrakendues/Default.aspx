@@ -14,9 +14,11 @@
     <li>Kommunismi ehitamine</li>
     <li>Kuuri ehitamine</li>
     </ul>--%>
-     <div>        <asp:Xml ID="xml1" runat="server" DocumentSource="~/inimesed.xml"        TransformSource="~/inimesed1.xslt" />     </div>
+    <%--<div>        <asp:Xml ID="xml1" runat="server" DocumentSource="~/inimesed.xml"        TransformSource="~/inimesed1.xslt" />     </div>
      <br />
      <div>       <asp:Xml ID="xml2" runat="server" DocumentSource="~/auto-info.xml"       TransformSource="~/auto-info1.xslt" />    </div>
+      <br />--%>
+     <div>       <asp:Xml ID="xml3" runat="server" DocumentSource="~/elizabeth2.xml"       TransformSource="~/elizabethII.xslt" />    </div>
  </body>
 </html>
 </asp:Content>

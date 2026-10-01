@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!--<sugupuu>
+	<inimene sunniaasta="1926">
+		<nimi>Elizabeth II</nimi>
+		<surmaaasta>2022</surmaaasta>
+		<vanus>96</vanus>
+		<lastearv>4</lastearv>
+		<ema>Elisabeth</ema>
+		<isa>George VI</isa>
+	</inimene>
+	<inimene sunniaasta="1948">
+		<nimi>Charles III</nimi>
+		<vanus>78</vanus>
+		<lastearv>2</lastearv>
+		<ema>Elizabeth II</ema>
+		<isa>Philip</isa>
+	</inimene>
+	<inimene sunniaasta="1950">
+		<nimi>Anne</nimi>
+		<vanus>76</vanus>
+		<lastearv>0</lastearv>
+		<ema>Elizabeth II</ema>
+		<isa>Philip</isa>
+	</inimene>
+	<inimene sunniaasta="1960">
+		<nimi>Andrew</nimi>
+		<vanus>66</vanus>
+		<lastearv>2</lastearv>
+		<ema>Elizabeth II</ema>
+		<isa>Philip</isa>
+	</inimene>
+	<inimene sunniaasta="1964">
+		<nimi>Edward</nimi>
+		<vanus>62</vanus>
+		<lastearv>0</lastearv>
+		<ema>Elizabeth II</ema>
+		<isa>Philip</isa>
+	</inimene>
+	<inimene sunniaasta="1982">
+		<nimi>William</nimi>
+		<vanus>44</vanus>
+		<lastearv>3</lastearv>
+		<ema>Diana</ema>
+		<isa>Charles III</isa>
+	</inimene>
+	<inimene sunniaasta="1984">
+		<nimi>Harry</nimi>
+		<vanus>42</vanus>
+		<lastearv>2</lastearv>
+		<ema>Diana</ema>
+		<isa>Charles III</isa>
+	</inimene>
+	<inimene sunniaasta="1988">
+		<nimi>Beatrice</nimi>
+		<vanus>38</vanus>
+		<lastearv>0</lastearv>
+		<ema>Sarah Ferguson</ema>
+		<isa>Andrew</isa>
+	</inimene>
+	<inimene sunniaasta="1990">
+		<nimi>Eugenie</nimi>
+		<vanus>36</vanus>
+		<lastearv>0</lastearv>
+		<ema>Sarah Ferguson</ema>
+		<isa>Andrew</isa>
+	</inimene>
+	<inimene sunniaasta="2013">
+		<nimi>George</nimi>
+		<vanus>13</vanus>
+		<lastearv>0</lastearv>
+		<ema>Catherine</ema>
+		<isa>William</isa>
+	</inimene>
+	<inimene sunniaasta="2015">
+		<nimi>Charlotte</nimi>
+		<vanus>11</vanus>
+		<lastearv>0</lastearv>
+		<ema>Catherine</ema>
+		<isa>William</isa>
+	</inimene>
+	<inimene sunniaasta="2018">
+		<nimi>Louis</nimi>
+		<vanus>8</vanus>
+		<lastearv>0</lastearv>
+		<ema>Catherine</ema>
+		<isa>William</isa>
+	</inimene>
+	<inimene sunniaasta="2019">
+		<nimi>Archie</nimi>
+		<vanus>7</vanus>
+		<lastearv>0</lastearv>
+		<ema>Meghan</ema>
+		<isa>Harry</isa>
+	</inimene>
+	<inimene sunniaasta="2021">
+		<nimi>Lilibet</nimi>
+		<vanus>5</vanus>
+		<lastearv>0</lastearv>
+		<ema>Meghan</ema>
+		<isa>Harry</isa>
+	</inimene>
+</sugupuu>-->
+<sugupuu>
+	<pereliige synniaasta="1926">
+		<nimi>Elizabeth II</nimi>
+		<pereliikmed>
+			<pereliige synniaasta="1948">
+				<nimi>Charles III</nimi>
+				<pereliikmed>
+					<pereliige synniaasta="1982">
+						<nimi>William</nimi>
+						<pereliikmed>
+							<pereliige synniaasta="2013">
+								<nimi>George</nimi>
+							</pereliige>
+							<pereliige synniaasta="2015">
+								<nimi>Charlotte</nimi>
+							</pereliige>
+							<pereliige synniaasta="2018">
+								<nimi>Louis</nimi>
+							</pereliige>
+						</pereliikmed>
+					</pereliige>
+					<pereliige synniaasta="1984">
+						<nimi>Harry</nimi>
+						<pereliikmed>
+							<pereliige synniaasta="2019">
+								<nimi>Archie</nimi>
+							</pereliige>
+							<pereliige synniaasta="2021">
+								<nimi>Lilibet</nimi>
+							</pereliige>
+						</pereliikmed>
+					</pereliige>
+				</pereliikmed>
+			</pereliige>
+			<pereliige synniaasta="1950">
+				<nimi>Anne</nimi>
+			</pereliige>
+			<pereliige synniaasta="1960">
+				<nimi>Andrew Mountbatten-Windsor</nimi>
+				<pereliikmed>
+					<pereliige synniaasta="1988">
+						<nimi>Beatrice</nimi>
+					</pereliige>
+					<pereliige synniaasta="1990">
+						<nimi>Eugenie</nimi>
+					</pereliige>
+				</pereliikmed>
+			</pereliige>
+			<pereliige synniaasta="1964">
+				<nimi>Edward</nimi>
+			</pereliige>
+		</pereliikmed>
+	</pereliige>
+</sugupuu>

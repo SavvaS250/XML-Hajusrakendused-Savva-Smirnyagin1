@@ -15,21 +15,12 @@ namespace XML_Hajusrakendues
     {
 
         /// <summary>
-        /// xml1 control.
+        /// xml3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml1;
-
-        /// <summary>
-        /// xml2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml2;
+        protected global::System.Web.UI.WebControls.Xml xml3;
     }
 }
